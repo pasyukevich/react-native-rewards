@@ -1,0 +1,1 @@
+export { PeerRewardsTabs } from './PeerRewardsTabs'
